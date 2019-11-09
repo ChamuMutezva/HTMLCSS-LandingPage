@@ -227,7 +227,7 @@ line-height: 1;
     position: relative;
 }
 
-.full-banner::before {
+.full-banner:before {
     conent: "";
     position: absolute;
     border: 1px solid #ffffff;
